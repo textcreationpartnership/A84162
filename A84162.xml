@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The voice of the iron rod, to his Highness the Lord Protector: being a seasonable admonition presented to him, and to all judicious men: by Arise Evans.</title>
+            <author>Evans, Arise, b. 1607.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84162</idno>
+            <idno type="STC">Wing E3473</idno>
+            <idno type="STC">Thomason E1474_3</idno>
+            <idno type="STC">ESTC R209514</idno>
+            <idno type="EEBO-CITATION">99868390</idno>
+            <idno type="PROQUEST">99868390</idno>
+            <idno type="VID">170002</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170002)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 189:E1474[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The voice of the iron rod, to his Highness the Lord Protector: being a seasonable admonition presented to him, and to all judicious men: by Arise Evans.</title>
+                  <author>Evans, Arise, b. 1607.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 17."; the second 5 in the imprint date has been crossed out and replaced with a "4".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170002:1" rendition="simple:additions"/>
+            <p>THE VOICE OF THE Iron ROD, To his Highneſs The Lord PROTECTOR: BEING A ſeaſonable Admonition preſented to him, and to all Judicious men:</p>
+            <p>By <hi>Ariſe Evans.</hi>
+            </p>
+            <q>
+               <bibl>Mica. 6.9.</bibl> 
+               <hi>The Lords voice crieth unto the City, and the man of wiſdom ſhall ſee my Name. Hear ye the rod, and who hath appointed it.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for the Author. 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170002:2"/>
+            <pb facs="tcp:170002:2"/>
+            <head>To the moſt diſcreet and valourous people of <hi>Englan<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> both Souldiers and others: <hi>ARISE EVANS wiſheth you grace, peace, truth &amp; glory, through Jeſus Chriſt our Lord.</hi>
+            </head>
+            <p>BEleved, the good effects that my Books which I wrote from tim<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to time had ta<g ref="char:EOLhyphen"/>ken upon his Highneſs the Lord Protector, and upon his party, hath always been croſſed by ſuch Plotters as have ſought the life of his Highneſs, &amp; to involve the Kingdom in blood again: the Plotters fooliſhly thinking, that God is well pleaſed with blood, and that it is im<g ref="char:EOLhyphen"/>poſſible for the King and his Highneſs to agree and come to be in mutual love and peace a<g ref="char:EOLhyphen"/>gain. And this I ſpeak, becauſe I finde the too too ſad conſequence of the late Plot, that hath altered the good affection of his High<g ref="char:EOLhyphen"/>neſs, &amp; of others that are about him, that was wrought on them by Gods bleſſing on my book called <hi>The Voice of</hi> Michael <hi>the Arch<g ref="char:EOLhyphen"/>angel,</hi> and thoſe motions for peace which be<g ref="char:EOLhyphen"/>ſides I propounded then to them by word of mouth, tending to union between the King &amp; his Highneſs. And theſe motives about three months agone, when I was there, were well re<g ref="char:EOLhyphen"/>ſented.
+<pb facs="tcp:170002:3"/>
+Upon which reception, I wrote ſome<g ref="char:EOLhyphen"/>thing accordingly, to ſhew that I found thoſe motives good effect. Which conception of mine, (to the honour of the true, peaceable, loyal affections of his Highneſs and of his party, ſhall be diſcovered hereafter, if God permit. But now having a further diſcovery to ſhew his Highneſs, even that which he ſhould ſpeedily do, to prevent an enſuing evil, I wrote and went to the Court, not doubting but that my way to his Highneſs was as paſſ<g ref="char:EOLhyphen"/>able as before: yet coming there, I found no paſſage, by reaſon the unſavourineſs of the late Plot was ſo hainous among them, that all we now which mention their peace with <hi>Charles</hi> the ſecond, are counted their adverſaries; though haply his Highneſs is of anether mind. Nor becauſe I was not admitted, am I per<g ref="char:EOLhyphen"/>ſwaded that his Highneſs is unwilling to hear me in a matter of ſo great concernment; but I look upon it as the fancie of the others that kept me from him. Therefore blame me not (being debar'd from him) for printing it, that it may come to his hand. And though you do blame me, I had rather ſuffer, then that his Highneſs ſhould be ignorant of Gods minde ſhewed in the foreſaid Writing; which is as followeth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:170002:3"/>
+            <head>To his Highneſs OLIVER CROMWEL, Lord Protector of <hi>Great Britain</hi> and <hi>Ireland: The humble Service of</hi> Ariſe Evans <hi>pre<g ref="char:EOLhyphen"/>ſented to your moſt ſerious conſidera<g ref="char:EOLhyphen"/>tion, in theſe lines following.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg> Month agone I ſhould have come to your Highneſs, but I was loth to be troubleſome: for then I had a Viſion to charge you not to ſeek the welfare of theſe Sectaries, whoſe ſpirits are fired to do evil, and to bring evil upon themſelves and you. And now after that, I had a Viſion which ſhewed that the King was come in to you upon an agreement, and that all the haters of the Lord were to be deſtroyed. I had alſo a kinde of a Viſion in the Chappel on the Lords day, <hi>Feb.</hi> 18. 1654. when the man preached upon 2 <hi>Chron.</hi> 15.2. who at length, as
+<pb n="2" facs="tcp:170002:4"/>
+he mentioned the <hi>Rod of iron,</hi> I held up my Cane; and I believe you took notice of me: for you re<g ref="char:EOLhyphen"/>moved upon it, and ſate back, ſo that I could not ſee you. And there ſtood before me a young man with his ſword g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded upon his thigh, much re<g ref="char:EOLhyphen"/>ſembling the King, <hi>Charles Stuart,</hi> to my thinking; who then asked me what is the text. And I an<g ref="char:EOLhyphen"/>ſwered, putting my hand upon the hilt of his ſword, ſaying, <hi>The Lord is with you, while you be with him.</hi> And upon that, a portly ancient man which was next to him, fell down flat as a dead man: and he took him up in his arms, and the man was revived again: and moſt in the Chap<g ref="char:EOLhyphen"/>pel ſaw the man fall, and taken up again, but few ſaw me hold forth my cane: nor could any that ſaw it, gather any thing from it, except your ſelf, it was ſo ſoftly and civilly done: and I had not thought much of it, had not God providen<g ref="char:EOLhyphen"/>tially compleated the Viſion, by thoſe actions in them two ſtrange men; what they were, I know not.</p>
+            <p>Now all that I thought by holding out my Cane toward you, upon the Preacher's mention<g ref="char:EOLhyphen"/>ing the <hi>Rod of Iron,</hi> was to put you in m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nde of what I had formerly delivered unto you touch<g ref="char:EOLhyphen"/>ing the bringing in of King <hi>Charles,</hi> and ſetling the Church-Government: but God gave you a further teſtimony of his will, by his providential actions in thoſe two men, as a ſigne to confirm what I had ſaid. For the man that had the ſword, and reſembled the King, ſignifieth that the King will come in. And the man which fell, ſignifieth your now tottering falling condition, and that the King is he that ſhall raiſe you up again. Let none deſpiſe theſe ſignes<g ref="char:punc">▪</g> for that ſigne of <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s
+<pb n="3" facs="tcp:170002:4"/>
+ſervant, by ſome would now be rejected as an accident, or as a fancie, <hi>Gen.</hi> 24.13, 14, 15, 16, 17, 18, 19, 20, 21. Neither would they count the ſigne on <hi>Gedeon</hi>'s fleece but an accident, though <hi>Gedeon</hi> grounded ſo high a deſigne upon it, that he went out againſt the <hi>Midianites</hi> upon that ſcore, <hi>Judg.</hi> 6.36, 37, 38, 39, 40. And where<g ref="char:EOLhyphen"/>fore are theſe things written, but that ſometimes we ſhould uſe the like means, as occaſion ſerves? For <hi>Gedeon</hi> then had the Scripture to direct him, and an Angel was ſent to him, <hi>Judg.</hi> 6.11, 12. yet notwithſtanding the ſigne confirms him at laſt, and then he goeth on his way. My Lord, miſtake me not: I do not ſay that this was a ſigne as <hi>Gedeons</hi> ſigne was, of mans chuſing, to reſolve his doubts; but I ſay, This ſigne or viſion was given of God alone, to ſhew the things to come. And the Church deſireth to ſee ſuch ſignes of de<g ref="char:EOLhyphen"/>liverance, <hi>Pſal.</hi> 74.7, 8, 9, 10. Of ſuch ſignes our Saviour ſpeaks; <hi>Luke</hi> 21.25, 26. <hi>Acts</hi> 2.19, 20. <hi>Gedeons</hi> ſigne was a plain thing; but this ſigne or viſion is matter of judgement, much like that of <hi>Belſhazzar,</hi> Dan. 5 7. which needed an Interpre<g ref="char:EOLhyphen"/>ter: therefore, my Lord, lay it the more ſeriouſly to heart.</p>
+            <p>And, my Lord, know alſo, that Church-go<g ref="char:EOLhyphen"/>vernment is the foundation of all Governments; ſo that neither the Civil nor the Military Go<g ref="char:EOLhyphen"/>vernment can poſſibly ſtand without it: for by Church-government men are brought to be of one minde, and of one ſpirit, to unity and peace. So that it, and none elſe, is the Government of Chriſt; and he that wants it, (except he keep the Scripture from them) ſhall not be able to rule his people. You may as well think to make
+<pb n="4" facs="tcp:170002:5"/>
+a rope of the drieſt ſand, which when you take a handful of it, do what you can, it will ſlip thorow your fingers, as think to rule this Nation without a ſtrait Church-government, even ſuch a Go<g ref="char:EOLhyphen"/>vernment as your Army hath; and that duely and diligently it be executed upon offenders.</p>
+            <p>But you will ſay, There was no ſuch Govern<g ref="char:EOLhyphen"/>ment in the Apoſtles time: I anſwer, No; for they were but as men that beat for Volunteers, and that liſt men to go into a ſtrange Iſland; which cannot preſcribe abſolute Laws for them whilſt they remain in their own native Land: but when they are come to the intended Iſland, then they have Laws given them, which if they tranſ<g ref="char:EOLhyphen"/>greſs, they muſt ſuffer accordingly, though it be to the death.</p>
+            <p>Or, to ſpeak more plainly, in your own Mili<g ref="char:EOLhyphen"/>tary language, the Apoſtles were as men when at firſt they are raiſing an Army, who put their Souldiers immediately in Companies under ſome inferiour Officers, and there they let them reſt a while; yet it is then intended, that the Souldiers ſhall not remain ſo always, but the intent is, that there ſhall be a General in chief over them, beſides Colonels and Majors, and a compleat Government among them. So likewiſe when the Church at firſt by the Apoſtles were in gathering, and put under ſuch Government as then (being perſecuted) they beſt could do, they doubtleſs then intended for it a Government that ſhould be compleat, even ſuch a Government as we had, not long ſince, here in <hi>England.</hi> Therefore ſtand for Church government, and for <hi>Charles Stuart,</hi> or elſe you cannot ſtand: proclaim him ſpeedily, leſt ſome Parliament-men do it before
+<pb n="5" facs="tcp:170002:5"/>
+you, and then you be undone: for that party which proclaims the King now, ſhall increaſe like a ſnow-ball; and, I tear, all that you can do, ſhall not be able to diſſolve it.</p>
+            <p>My Lord, the people generally look upon you now, as one that can ſhew no colour for your Authority to rule them: for ſince the laſt Par<g ref="char:EOLhyphen"/>liament diſowned you, (whom we looked upon as honeſt men) all do diſown you; and the moſt judicious ſay, that nothing will bring you into favour with them again, but your ſpeedy reſto<g ref="char:EOLhyphen"/>ring of the Church and King.</p>
+            <p>Oh do not let your adverſaries prevail againſt you through your neglect. You know <hi>Samſon</hi> ſlept ſo long upon <hi>Dalilah</hi>'s knees, until his locks were cut off, that when he, poor man, awaked, and thought to go out and prevail as at other times, alas, he was ſoon overcome, and had his eyes put out, and was put to grinde in a mill, like as if he had been a founder'd blinde horſe, <hi>Judg.</hi> 16. 19, 20, 21. So theſe Colonels dally with you, but in the mean time they cut off your locks in the Army; and they know already, that they have more of the Army on their ſide, then you have, beſides their furious party abroad; elſe would they not be ſo bold with you as they are. They ſay, Treaſon never proſpers; and why? be<g ref="char:EOLhyphen"/>cauſe if it proſper, none dare call it Treaſon: Therefore, what is Law to day, may be Treaſon to morrow. I know there is no truth among the Sectaries, but that of the Anabaptiſt, which did all: for rebaptizing is a truth, as I ſhall make it appear by Scripture, by Reaſon, by an<g ref="char:EOLhyphen"/>cient Records, and by Saint <hi>Auguſtine</hi>'s own con<g ref="char:EOLhyphen"/>feſſion: but their denial of Infants baptiſm by
+<pb n="6" facs="tcp:170002:6"/>
+their Sureties, is an errour, as I have and ſhall make it appear with as full proof, at large. There<g ref="char:EOLhyphen"/>fore the Cauſe (as we call it) is a controverſie which God had with his people for their ſins, <hi>Mic.</hi> 6.2. and though he gave them into your hands for a time, do not you go, as the Heathen did go beyond their Commiſſion in afflicting Gods people. <hi>Zech.</hi> 1.15, 16.</p>
+            <p>My Lord, to deal plainly with you; do you think that the people are ſo abaſed now through the fear of you, that they will maintain your 30000 men, beſides the great Navie, and a great Court for you, at their own coſt and charges? whereas they know, that by their exchanging you for King <hi>Charles,</hi> they ſhall be freed from all that coſt and charge; (judge with reaſon; is it wiſdom for you to think ſo?) for then the Kings Revenues and Church-Revenues running in their own chanel again, will make the people as free from Taxes as they were before theſe Troubles began. And many that have bought of the King and Biſhops Lands, to my knowledge, are ſo honeſt, wiſhing it were come to that paſs, though they ſhould loſe their money by it.</p>
+            <p>My Lord, I have been told by diſcreet men of all parts in <hi>England,</hi> which are no enemies to you, and therefore they bid me tell you, that they perceive there will be a ſudden general Raſing againſt you, at one day and hour, in all the Counties of <hi>England:</hi> and by Viſions alſo and Scripture it is confirmed to me, that it will be ſo, if you do not prevent it, by the ſpeedy pro<g ref="char:EOLhyphen"/>claiming of <hi>Charles Stuart.</hi> It is true, <hi>Jeremiah</hi> was favourably uſed by <hi>Zedekiah,</hi> (and ſo was I by you) therefore <hi>Jeremiah</hi> ſhewed him the way
+<pb n="7" facs="tcp:170002:6"/>
+how to ſave himſelf, his City and family; and he ſeemed to be well pleaſed with it: but not<g ref="char:EOLhyphen"/>withſtanding, <hi>Zedekiah</hi> went in his own way to do it, and you ſee what became of him, and of his City and Family, <hi>Jer.</hi> 38. &amp; <hi>Jer.</hi> 39. and I beſeech you conſider, that if the Country will not pay the Aſſeſments, as I hear many ſay they will not, becauſe you had no power, ſay they, from the laſt Parliament to raiſe money: I ſay, If they will not rate it, how can you raiſe it in equi<g ref="char:EOLhyphen"/>ty? And if you want money, what will become of you? The late King loſt all upon that ſcore, going to raiſe Ship-money without conſent of Parliament. Take heed what you do: for I be<g ref="char:EOLhyphen"/>lieve your Souldiers conſider all theſe things, as well as others, and that though for the pre<g ref="char:EOLhyphen"/>ſent they obey you, to ſee what you will do; yet they will not ſerve you to keep their native Country in ſuch bondage. Therefore truſt not to them upon ſuch an account; but do righteous things, and then they will gladly follow you.</p>
+            <p>My Lord, you are deſigned for higher things, then to live ſo diſhonorably at <hi>White-hall,</hi> as to, be counted a Tyrant, and the very enemy of your native Country. My Lord, you are to look higher then on ſuch a lowe contemptible way of living: you are to do the work of God, for which you were deſigned and called; and you are to have the dominion (though not for your ſelf) over the chiefeſt City in the world, afore it be long, as I told you in my former books. And wherefore was <hi>Darius</hi> his age <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et down, <hi>Dan</hi> 5. 31. but that you might know when it ſhall be? your own age will tell you that; keep it ſecret. Come not ſhort in theſe vertues of a
+<pb n="8" facs="tcp:170002:7"/>
+Heathen Captain, <hi>Alexander</hi> the Great, who did excellent things for his own vain-glory; but do you the like to the glory of God<g ref="char:punc">▪</g> therefore you muſt exceed him in ſuch godly vertues, which he by nature did the things contained in the Law, as Saint <hi>Paul</hi> ſaith, <hi>Rom.</hi> 2. 13, 41, 15, 16. Three things which I have heard of <hi>Alexander,</hi> are moſt excellent and remarkable Chriſtian vertues, in which you ought to follow him.</p>
+            <p>Firſt, <hi>Alexander</hi> going out againſt a mighty King who fought ſtoutly, yet being overcome at laſt, he was brought before <hi>Alexander,</hi> who ask<g ref="char:EOLhyphen"/>ed the King what he would have him do to him. Said he, <hi>I would have you uſe me like o King.</hi> Whereupon, <hi>Alexander</hi> being taken with the va<g ref="char:EOLhyphen"/>lour and worthineſs of the perſon, he gives him his own Kingdom again, &amp; two other great King<g ref="char:EOLhyphen"/>doms beſides. My Lord, here is a fair preſident for you, that have ſeen at <hi>Worceſter</hi> the valour and gallantry of King <hi>Charles.</hi> Do you alſo the like unto him: and if ye do it, be ſure you will have Kingdoms enough ere long be, at your pleaſure, as <hi>Alexander</hi> had: for God loveth ſuch noble actions, and giveth riches to ſuch as can part with them freely, and are valorous.</p>
+            <p>Secondly, <hi>Alexander</hi> being in his glory, a poor man, named <hi>Puplius,</hi> who had been an old ac<g ref="char:EOLhyphen"/>quaintance of his, came to ſee him: and he be<g ref="char:EOLhyphen"/>ing glad to ſee him, that he might do ſomething for him, he gives him a great City. <hi>Alas,</hi> ſaid the poor man, <hi>this is too great a gift for Puplius to receive. Alexander</hi> replied, <hi>Though it be too great for Puplius to receive, it is not too great for Alexan<g ref="char:EOLhyphen"/>der to give.</hi> Here is a gallant minde, my Lord; imitate him therein: for this is according to the
+<pb n="9" facs="tcp:170002:7"/>
+rules of Chriſtianity in the higheſt degree, <hi>Luk.</hi> 6. 30, 38. And who is more worthy of the world then he that is liberal? As the Prophet ſaith, <hi>The liberal deviſeth liberal things; and by liberal things ſhall he ſtand, and be eſtabliſhed,</hi> Iſai. 32.8.</p>
+            <p>Thirdly, <hi>Alexander,</hi> when he had conquered the world, ſate down and wept. His friends ask<g ref="char:EOLhyphen"/>ed him wherefore he wept. Said he, <hi>Becauſe I have conquered the world, and now there is no more worlds for me to conquer.</hi> Here is a gallant heroick minde! What and if this man had been a true Chriſtian? ſurely he would not have reſted, un<g ref="char:EOLhyphen"/>til he had brought all the world under the Sce<g ref="char:EOLhyphen"/>pter of Jeſus Chriſt. And will you now leave the work of God, for to enjoy vanities and unrighte<g ref="char:EOLhyphen"/>ous mammon for a moment? <hi>Jonah</hi> 2.8. <hi>Luke</hi> 16.9. Your Sword hath been ever victorious; not that there was much need for you here, but that here you might have experience of Gods preſence with you, and that ye might know that he hath raiſed you up to conquer the world, and to bring it under his Scepter.</p>
+            <p>My Lord, <hi>it is appointed unto men once to die, and after this the judgement.</hi> Heb. 9. 27. Death cometh upon all; we are mortal; and our lives now (though Sectaries think not ſo) are bound up in yours. Therefore I beſeech you, conſider, if God ſhould take you away, what confuſion and cutting of throats would be among parties in this Nation, who then will not acknowledge what your Councel do. And therefore, I be<g ref="char:EOLhyphen"/>ſeech you again, make your peace ſpeedily with the King; and to end all controverſie, proclaim him, and ſo ſecure your ſelf and all peaceable men. Which if you do, you will pleaſe God by
+<pb n="10" facs="tcp:170002:8"/>
+it, and gain the higheſt repute as can be in the world, who cannot but look upon it as the high<g ref="char:EOLhyphen"/>eſt act of Godlineſs and Nobility in you, as can be in man.</p>
+            <p>If you think I can do you any ſervice, I am ready for you. However, I ſhall do what I can for you: and the Lord give a bleſſing to it. <hi>A<g ref="char:EOLhyphen"/>men.</hi>
+            </p>
+            <closer>
+               <signed>Ariſe Evans.</signed>
+               <dateline>
+                  <hi>Blackfriers in Long-Alley,</hi> 
+                  <date>Feb. 22. 1654.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>The Poſtſcript.</head>
+               <opener>
+                  <salute>Beloved,</salute>
+               </opener>
+               <p>
+                  <hi>IT is not eaſie for a tender-hearted man, to hear the voice of innocent blood continually ſounding in his Ears, and to ſee the Poor oppr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſed by the Mighty. Therefore being troubled with theſe things, and ha<g ref="char:EOLhyphen"/>ving abundance of revelations and viſions of late, by which God ſhewed me that now he was ariſing in all the Counties of</hi> England, <hi>to execute judgement for the Oppreſſed: I could not rest till I had wrote them as above ſaid, that his Highneſs might ſee them; who, the last time that I was with him, when I gave</hi>
+                  <pb n="11" facs="tcp:170002:8"/>
+                  <hi>him thanks for the liberty that I had to eaſe my trou<g ref="char:EOLhyphen"/>bled ſpirit, that foreſaw theſe things, bade me write again, and let nothing trouble me. Whereſore I had reaſon, for that cauſe, to let him ſee them in the firſt place. And again, I had reaſon to let him ſee them, in regard he is moſt concerned in them. But with all that I could do, by waiting a whole week at Court, I had no admittance to him, neither could I have a perfect anſwer from one of his chief Gentlemen that attends him, which received my Writings, what was become of them; ſo that I by no means could have them again. Now if theſe Writings be gone forth, and divulged abroad, it is not onely a wrong to his Highneſs, but alſo to me; though the Gentleman that received them of me, might be ignorant of the conſe<g ref="char:EOLhyphen"/>quence following; for a mans enemies many times are of his own houſe. So that if he ſhewed them to ſome private enemy to his Highneſs, he did not well. And intentively to prevent the miſchief that may enſue, I do print them now: That again, while there is hope, his Highneſs may know how to ſave the blood of this Nation. which if not, I am free from their blood, and from the blood of all men. Let it fall upon the heads of them that will not ohey the truth manifeſted.</hi>
+               </p>
+               <closer>
+                  <signed>Ariſe Evans.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
